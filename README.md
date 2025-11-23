@@ -1,4 +1,4 @@
-The ways to improve the project are described in the report. Mainly improvements occurred in the `cam.py` file.
+The ways to improve the project are described in the report.
 
 
 
@@ -12,4 +12,5 @@ Dataset using **miniImageNet_load**, for running:
 # miniImageNet_category_split_test.pickle
 # miniImageNet_category_split_train_phase_train.pickle
 # miniImageNet_category_split_val.pickle
+
 ```
