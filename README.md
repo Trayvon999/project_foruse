@@ -1,6 +1,6 @@
 The ways to improve the project are described in the report.
 
-
+Before running the code, please download and extract the dataset below. Please modify the `dataset_dir` variable in the file torchFewShot/datasets/miniImageNet_load.py to ensure that you are using the correct dataset path and that the code runs successfully.
 
 Dataset using **miniImageNet_load**, for running:
 
@@ -14,3 +14,4 @@ Dataset using **miniImageNet_load**, for running:
 # miniImageNet_category_split_val.pickle
 
 ```
+
