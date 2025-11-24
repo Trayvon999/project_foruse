@@ -15,5 +15,7 @@ Dataset using **miniImageNet_load**, for running:
 
 ```
 
-fewshot-CAN-master → baseline
+fewshot-CAN-master → baseline.
+
 Each of the other folders corresponds to a small improvement.
+
